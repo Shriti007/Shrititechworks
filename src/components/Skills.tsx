@@ -17,6 +17,7 @@ const skillCategories = [
     title: 'Backend',
     skills: [
       { name: 'Java', icon: '☕', color: 'text-red-500' },
+      { name: 'Python', icon: '🐍', color: 'text-yellow-500' },
       { name: 'Node.js', icon: '🟢', color: 'text-green-500' },
       { name: 'C/C++', icon: '⚙️', color: 'text-blue-600' },
     ]
